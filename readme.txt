@@ -10,4 +10,4 @@ wav2midi
 
 备注:old下wav2midi.exe为Windows可执行文件,最早期的版本,仅供参考.
 
-有任何问题,可邮件联系:gaozhihan@vip.qq.com
+
